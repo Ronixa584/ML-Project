@@ -1,0 +1,7 @@
+.swiper-button-prev,
+.swiper-button-next {
+    width: 15px;
+    height: 15px;
+    margin-top: -20px;
+    color: black;
+}
